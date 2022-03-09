@@ -1,0 +1,19 @@
+use assignment
+db.createCollection("users")
+db.users.insert({"first_name":"Tanya","last_name":"shri","email":"tanya@mail","gender":"female","ip_adrees":"asdfg","age":22})
+db.users.insertMany([{"first_name":"shri1","last_name":"cds1","age":24,"email":"afdfg@mail.com","gender":"male","ip_adrees":"dfg","age":24},
+{"first_name":"shri2","last_name":"cds2","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":22},
+{"first_name":"shri3","last_name":"cds3","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":25},
+{"first_name":"shri4","last_name":"cds4","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":26},
+{"first_name":"shri5","last_name":"cds5","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":27},
+{"first_name":"shri6","last_name":"cds","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":28},
+{"first_name":"shri7","last_name":"cds","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":24},
+{"first_name":"shri8","last_name":"cds","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":24},
+{"first_name":"shri9","last_name":"cds","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":22},
+{"first_name":"shri10","last_name":"cds","age":23,"email":"asfdfg@mail.com","gender":"female","ip_adrees":"asdfg","age":23}])
+ db.users.find({ "_id" : ObjectId("6228bb32fe78c3c327a2412a")})
+ db.users.findOne({"first_name" : "shri10"})
+db.users.remove({ "_id" : ObjectId("6228bb32fe78c3c327a2412a")})
+db.users.deleteOne({"_id" : ObjectId("6228bb32fe78c3c327a24128")})
+db.users.deleteMany({"age" : 24})
+db.dropDatabase()
