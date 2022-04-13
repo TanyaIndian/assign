@@ -1,0 +1,10 @@
+.main{
+    
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+   background-color: lightgray;
+   width: 50%;
+   margin: auto;
+
+}
