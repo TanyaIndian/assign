@@ -1,0 +1,68 @@
+{
+  "students": [
+    {},
+    {
+      "id": "1br9ndEMPpxEhOmifrriT",
+      "name": "Tanya",
+      "Address": "muz",
+      "department": "A",
+      "salary": "500",
+      "age": "23",
+      "martial_status": "male"
+    },
+    {
+      "id": "yigRBEPGa9hGuY0k5gjaI",
+      "name": "Tanya k",
+      "Address": "muz",
+      "department": "C",
+      "salary": "400",
+      "age": "23",
+      "martial_status": "male"
+    },
+    {
+      "id": "cp1FGnBvUUHnl19FaK_uo",
+      "name": "pablo",
+      "Address": "muz",
+      "department": "C",
+      "salary": "600",
+      "age": "23",
+      "martial_status": "male"
+    },
+    {
+      "id": "F9X2vOe-yzaiw2Z1H-vqB",
+      "name": "web15",
+      "Address": "muz",
+      "department": "B",
+      "salary": "444",
+      "age": "45",
+      "martial_status": "female"
+    },
+    {
+      "id": "8BkfyinEuG1zG8HMUygwT",
+      "name": "web15",
+      "Address": "muz",
+      "department": "A",
+      "salary": "23",
+      "age": "3",
+      "martial_status": "male"
+    },
+    {
+      "id": "VAZvEtDs1b2mR0-KAisdi",
+      "name": "pablo",
+      "Address": "muz",
+      "department": "B",
+      "salary": "32324",
+      "age": "4",
+      "martial_status": "male"
+    },
+    {
+      "id": "Iu3XRyuJ6V0zz5hqkzBNd",
+      "name": "web15",
+      "Address": "muz",
+      "department": "C",
+      "salary": "800",
+      "age": "34",
+      "martial_status": "female"
+    }
+  ]
+}
