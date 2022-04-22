@@ -1,0 +1,15 @@
+.login{
+    background:black;
+    color:white;
+    width:95%;
+    margin:auto;
+    height:500px
+}
+
+.logout{
+    background:teal;
+    color:red;
+    width:95%;
+    margin:auto;
+    height:500px
+}
