@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Crossroads Systems, Inc.",
+        "cuisine": "Indian",
+        "cost": 400,
+        "minPrice": 50,
+        "paymentMethods": "Accepts card payments only",
+        "rating": 3.1,
+        "votes": 567,
+        "reviews": 192,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+        "id": 1
+      },
+      {
+        "name": "Apollo Endosurgery, Inc.",
+        "cuisine": "Italian",
+        "cost": 200,
+        "minPrice": 200,
+        "paymentMethods": "Accepts card and COD payments",
+        "rating": 2.8,
+        "votes": 231,
+        "reviews": 467,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+        "id": 2
+      },
+      {
+        "name": "Griffin Industrial Realty, Inc.",
+        "cuisine": "Chinese",
+        "cost": 200,
+        "minPrice": 100,
+        "paymentMethods": "Accepts COD payments only",
+        "rating": 2.8,
+        "votes": 231,
+        "reviews": 192,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+        "id": 3
+      },
+      {
+        "name": "Tata Motors Ltd",
+        "cuisine": "Italian",
+        "cost": 100,
+        "minPrice": 200,
+        "paymentMethods": "Accepts COD payments only",
+        "rating": 3.6,
+        "votes": 567,
+        "reviews": 345,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+        "id": 4
+      },
+      {
+        "name": "SI Financial Group, Inc.",
+        "cuisine": "American",
+        "cost": 200,
+        "minPrice": 50,
+        "paymentMethods": "Accepts card payments only",
+        "rating": 4.2,
+        "votes": 567,
+        "reviews": 467,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+        "id": 5
+      }
+     
+    ]
+  }
